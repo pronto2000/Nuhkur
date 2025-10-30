@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "Nuhkur",
+  "version": "1.0.0",
+  "description": "Eestikesksed otsingud: erakondlik kuuluvus, Facebook, Infroregister, jne.",
+  "permissions": [
+    "contextMenus",
+    "tabs"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "icons": {
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+}
