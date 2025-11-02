@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
   "name": "Nuhkur",
-  "version": "1.0.0",
-  "description": "Eestikesksed otsingud: erakondlik kuuluvus, Facebook, Infroregister, jne.",
+  "version": "1.1.0",
+  "description": "Eestikesksed otsingud: erakondlik kuuluvus, Facebook, Inforegister, Vikipeedia, jne.",
   "permissions": [
     "contextMenus",
     "tabs"

@@ -16,6 +16,12 @@ chrome.contextMenus.create({
   contexts: ["selection"]
 });
 
+chrome.contextMenus.create({
+  id: "searchWikipedia",
+  title: "Otsi '%s' Vikipeediast",
+  contexts: ["selection"]
+});
+
 chrome.contextMenus.onClicked.addListener((info, tab) => {
   if (info.selectionText) {
     let searchQuery = encodeURIComponent(info.selectionText);
@@ -30,6 +36,9 @@ chrome.contextMenus.onClicked.addListener((info, tab) => {
         break;
       case "searchInforegister":
         searchUrl = `https://www.inforegister.ee/otsing/%22${searchQuery}%22/`;
+        break;
+      case "searchWikipedia":
+        searchUrl = `https://et.wikipedia.org/w/index.php?search=${searchQuery}`;
         break;
     }
     if (searchUrl != "") {
