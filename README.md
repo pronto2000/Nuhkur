@@ -1,6 +1,6 @@
-NUHKUR 1.1.0
+# NUHKUR 1.1.0
 
-Nuhkur on abimees otsimaks Eestikeskset informatsiooni erinevatest allikatest teksti vaid valikusse võttes.
+Nuhkur on abimees otsimaks Eestikeskset informatsiooni erinevatest allikatest.
 
 Hetkel toetab Nuhkur järgnevaid infokanaleid:
 
