@@ -8,3 +8,6 @@ Hetkel toetab Nuhkur järgnevaid infokanaleid:
 2. Vikipeedia
 3. Facebook
 4. Inforegister
+
+## Paigaldamine
+
