@@ -11,3 +11,4 @@ Hetkel toetab Nuhkur järgnevaid infokanaleid:
 
 ## Paigaldamine
 
+Laienduste lehel vali "Load unpacked". Seejärel vali kataloog kuhu failid on lahti pakitud.
