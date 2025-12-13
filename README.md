@@ -13,4 +13,4 @@ Hetkel toetab Nuhkur järgnevaid infokanaleid:
 
 Laienduste lehel vali "Load unpacked". Seejärel vali kataloog kuhu failid on lahti pakitud.
 
-tanel.raja@gmail.com
+Tanel Raja, tanel.raja@gmail.com
